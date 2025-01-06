@@ -1,0 +1,18 @@
+﻿  main.c
+C:\Users\Adam\source\repos\Adam_FinalProject\main.c(216,21): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+C:\Users\Adam\source\repos\Adam_FinalProject\main.c(218,18): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+C:\Users\Adam\source\repos\Adam_FinalProject\main.c(236,28): warning C4305: 'function': truncation from 'double' to 'GLclampf'
+C:\Users\Adam\source\repos\Adam_FinalProject\main.c(410,59): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+C:\Users\Adam\source\repos\Adam_FinalProject\main.c(411,59): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+C:\Users\Adam\source\repos\Adam_FinalProject\main.c(414,59): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+C:\Users\Adam\source\repos\Adam_FinalProject\main.c(415,59): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+C:\Users\Adam\source\repos\Adam_FinalProject\main.c(662,30): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Adam\source\repos\Adam_FinalProject\main.c(665,31): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Adam\source\repos\Adam_FinalProject\main.c(1125,25): warning C4013: 'time' undefined; assuming extern returning int
+C:\Users\Adam\source\repos\Adam_FinalProject\main.c(1147,61): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Adam\source\repos\Adam_FinalProject\main.c(1212,61): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Adam\source\repos\Adam_FinalProject\main.c(1221,66): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Adam\source\repos\Adam_FinalProject\main.c(1222,64): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Adam\source\repos\Adam_FinalProject\main.c(1388,79): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Adam\source\repos\Adam_FinalProject\main.c(1389,71): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Project3.vcxproj -> C:\Users\Adam\source\repos\Adam_FinalProject\x64\Debug\Project3.exe
